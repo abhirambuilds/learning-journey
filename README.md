@@ -14,7 +14,7 @@
 ---
 
 ## 🗂️ Repository Purpose:
-This repo tracks my learning and growth from **June to December 2025**, as I build proof-of-work for internships and future job roles.
+This repo tracks my learning and growth from **2025--2026**, as I build proof-of-work for internships and future job roles.
 
 ### 📁 Structure:
 - `ml-a-z/` – ML course notebooks and models  
