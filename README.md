@@ -28,3 +28,15 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 - [GitHub](https://github.com/abhirambuilds)
 
 ⭐ Check out my repositories below 👇
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0344-reverse-string/) | Easy |
+<!---LeetCode Topics End-->
