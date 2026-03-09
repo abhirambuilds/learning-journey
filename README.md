@@ -34,6 +34,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
 | [0344-reverse-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## String
@@ -41,4 +42,12 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
