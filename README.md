@@ -46,6 +46,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1051-height-checker](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1051-height-checker/) | Easy |
@@ -59,4 +60,8 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1051-height-checker/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
