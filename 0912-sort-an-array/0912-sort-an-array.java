@@ -1,31 +1,50 @@
 class Solution {
-    public int Partition(int nums[],int low,int high){
-        Swap(nums, (low + high) / 2, high); 
-        int pivot=nums[high];
-        int i=low-1;
-        for(int j=low;j<=high-1;j++){
-            if(nums[j] < pivot){
+    public void Merge(int nums[],int l,int m,int r){
+        int n1=m-l+1;
+        int n2=r-m;
+        int L[]=new int[n1];
+        int R[]=new int[n2];
+        for(int i=0;i<n1;i++){
+            L[i]=nums[l+i];
+        }
+        for(int j=0;j<n2;j++){
+            R[j]=nums[m+j+1];
+        }
+        int i=0,j=0;
+        int k=l;
+        while(i<n1 && j<n2){
+            if(L[i]<=R[j])
+            {   nums[k]=L[i];
                 i++;
-                Swap(nums,i,j);
+                k++;
+            }else{
+                nums[k]=R[j];
+                j++;
+                k++;
             }
         }
-        Swap(nums,i+1,high);
-        return i+1;
+        while(i<n1){
+            nums[k]=L[i];
+            i++;
+            k++;
+        }
+        while(j<n2){
+            nums[k]=R[j];
+            j++;
+            k++;
+        }
     }
-    public void Swap(int arr[],int i,int j){
-        int temp=arr[i];
-        arr[i]=arr[j];
-        arr[j]=temp;
-    }
-    public void QuickSort(int nums[],int low,int high){
-        if(low < high){
-            int pi=Partition(nums,low,high);
-            QuickSort(nums,low,pi-1);
-            QuickSort(nums,pi+1,high);
+    public void MergeSort(int nums[],int l,int r)
+    {
+        if(l<r){
+            int m=l+(r-l)/2;
+            MergeSort(nums,l,m);
+            MergeSort(nums,m+1,r);
+            Merge(nums,l,m,r);
         }
     }
     public int[] sortArray(int[] nums) {
-        QuickSort(nums,0,nums.length-1);
+        MergeSort(nums,0,nums.length-1);
         return nums;
     }
 }
