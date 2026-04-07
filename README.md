@@ -35,12 +35,14 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0905-sort-array-by-parity/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Array
