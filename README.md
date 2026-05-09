@@ -49,6 +49,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -105,4 +106,12 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0239-sliding-window-maximum/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
