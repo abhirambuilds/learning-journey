@@ -43,6 +43,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Array
@@ -62,6 +63,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0242-valid-anagram/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1051-height-checker/) | Easy |
@@ -113,6 +115,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0242-valid-anagram/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
