@@ -25,3 +25,11 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/kabhiramreddy28/)  
 - [GitHub](https://github.com/abhirambuilds)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0007-reverse-integer/) | Medium |
+<!---LeetCode Topics End-->
