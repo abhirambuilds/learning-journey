@@ -32,4 +32,5 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
