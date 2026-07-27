@@ -42,12 +42,14 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0189-rotate-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0704-binary-search](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0704-binary-search](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0704-binary-search/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
