@@ -12,7 +12,8 @@ class Solution {
                     start++;
                     length++;
                 }
-                max=Math.max(max,length);
+                if(length>max)
+                    max=length;
             }
         }
         return max;
