@@ -12,7 +12,7 @@ class Solution {
                     start++;
                     length++;
                 }
-                max=(max>length)?max:length;
+                max=Math.max(max,length);
             }
         }
         return max;
