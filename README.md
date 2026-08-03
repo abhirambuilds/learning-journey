@@ -51,6 +51,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -84,6 +85,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0088-merge-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -117,6 +119,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0229-majority-element-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -140,6 +143,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0128-longest-consecutive-sequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
 | [0706-design-hashmap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0706-design-hashmap/) | Easy |
 ## Dynamic Programming
@@ -180,4 +184,8 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
