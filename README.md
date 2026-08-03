@@ -46,6 +46,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0053-maximum-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0088-merge-sorted-array/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0189-rotate-array/) | Medium |
@@ -136,6 +137,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
@@ -174,4 +176,8 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0706-design-hashmap/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
