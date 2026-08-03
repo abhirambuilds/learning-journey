@@ -8,7 +8,7 @@ class Solution {
             if(!st.contains(num-1)){
                 int current=num;
                 int length=1;
-                while(current != Integer.MAX_VALUE && st.contains(current+1)){
+                while(st.contains(current+1)){
                     length++;
                     current++;
                 }
