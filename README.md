@@ -52,6 +52,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0189-rotate-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -92,6 +93,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
