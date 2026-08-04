@@ -35,6 +35,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0009-palindrome-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0049-group-anagrams/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
