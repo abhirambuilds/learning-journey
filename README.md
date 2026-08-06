@@ -47,6 +47,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0041-first-missing-positive](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0088-merge-sorted-array/) | Easy |
@@ -239,4 +240,12 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0051-n-queens/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
