@@ -201,6 +201,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
