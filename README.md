@@ -151,6 +151,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0027-remove-element/) | Easy |
@@ -183,6 +184,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -201,6 +203,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0049-group-anagrams/) | Medium |
@@ -260,4 +263,8 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0051-n-queens/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
