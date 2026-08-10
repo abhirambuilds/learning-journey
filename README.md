@@ -102,6 +102,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
@@ -176,6 +177,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0525-contiguous-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0525-contiguous-array/) | Medium |
@@ -208,6 +210,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0014-longest-common-prefix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0242-valid-anagram/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
