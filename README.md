@@ -162,6 +162,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0141-linked-list-cycle](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0283-move-zeroes/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Bit Manipulation
@@ -203,11 +204,13 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0141-linked-list-cycle](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0706-design-hashmap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0706-design-hashmap/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0234-palindrome-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +257,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0042-trapping-rain-water/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
