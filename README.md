@@ -44,6 +44,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0014-longest-common-prefix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0049-group-anagrams/) | Medium |
@@ -81,6 +82,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0704-binary-search/) | Easy |
