@@ -160,6 +160,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0283-move-zeroes/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -176,6 +177,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0049-group-anagrams](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0229-majority-element-ii/) | Medium |
@@ -199,6 +201,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0206-reverse-linked-list/) | Easy |
 | [0706-design-hashmap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0706-design-hashmap/) | Easy |
 ## Recursion
