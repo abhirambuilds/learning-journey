@@ -170,6 +170,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0234-palindrome-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0283-move-zeroes/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +229,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0242-valid-anagram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0242-valid-anagram/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0796-rotate-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
