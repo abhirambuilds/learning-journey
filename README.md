@@ -71,6 +71,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0304-range-sum-query-2d-immutable](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -92,6 +93,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0162-find-peak-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
+| [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -139,6 +141,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -150,6 +153,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -348,4 +352,20 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0881-boats-to-save-people/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
