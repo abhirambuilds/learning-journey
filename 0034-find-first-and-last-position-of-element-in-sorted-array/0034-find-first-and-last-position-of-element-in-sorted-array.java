@@ -1,13 +1,43 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        return getIdx(nums,target,nums.length - 1,new int[]{-1, -1});
+        int firstIdx=-1;
+        int secondIdx=-1;
+        firstIdx=firstIdx(nums,target);
+        secondIdx=secondIdx(nums,target);
+        return new int []{firstIdx,secondIdx};
     }
-    public int[] getIdx(int nums[], int target, int idx, int res[]) {
-        if (idx < 0) return res;
-         if (nums[idx] == target) {       
-            if(res[1] == -1) res[1] = idx; 
-            res[0] = idx;         
+    private int firstIdx(int nums[],int target){
+        int ans=-1;
+        int left=0;
+        int right=nums.length-1;
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            if(nums[mid]==target){
+                ans=mid;
+                right=mid-1;
+            }else if(nums[mid]<=target){
+                left=mid+1;
+            }else{
+                right=mid-1;
+            }
         }
-        return getIdx(nums, target, idx - 1, res);
+        return ans;
+    }
+    private int secondIdx(int nums[],int target){
+        int ans=-1;
+        int left=0;
+        int right=nums.length-1;
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            if(nums[mid]==target){
+                ans=mid;
+                left=mid+1;
+            }else if(nums[mid]<=target){
+                left=mid+1;
+            }else{
+                right=mid-1;
+            }
+        }
+        return ans;
     }
 }
