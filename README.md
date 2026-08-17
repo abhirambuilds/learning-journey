@@ -192,6 +192,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -217,6 +218,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0049-group-anagrams](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0217-contains-duplicate/) | Easy |
@@ -245,6 +247,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0023-merge-k-sorted-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -353,6 +356,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
