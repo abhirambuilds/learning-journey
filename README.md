@@ -368,6 +368,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Binary Search Tree
@@ -377,6 +378,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Matrix
@@ -414,5 +416,10 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
