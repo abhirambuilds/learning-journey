@@ -289,6 +289,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0706-design-hashmap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0706-design-hashmap/) | Easy |
@@ -314,6 +315,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0496-next-greater-element-i/) | Easy |
