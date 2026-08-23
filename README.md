@@ -34,6 +34,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0002-add-two-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -97,6 +98,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0033-search-in-rotated-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -430,4 +432,8 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
