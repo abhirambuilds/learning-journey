@@ -47,6 +47,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0015-3sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0035-search-insert-position/) | Easy |
@@ -197,6 +198,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0088-merge-sorted-array/) | Easy |
