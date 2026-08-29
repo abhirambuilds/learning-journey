@@ -58,6 +58,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0051-n-queens](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -327,6 +328,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -336,6 +338,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0496-next-greater-element-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -444,4 +447,8 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0069-sqrtx/) | Easy |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
