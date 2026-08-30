@@ -84,6 +84,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0525-contiguous-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0704-binary-search/) | Easy |
@@ -111,6 +112,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0287-find-the-duplicate-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
