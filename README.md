@@ -58,6 +58,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0051-n-queens](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -102,6 +103,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0069-sqrtx/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
