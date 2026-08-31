@@ -8,34 +8,27 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ /*BRUTE FORCE:
+
+
+ */
 class Solution {
     public boolean isPalindrome(ListNode head) {
         if (head == null || head.next == null) return true;
-        ListNode slow = head, fast = head;
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
+        Deque<Integer> stack = new ArrayDeque<>();
+        ListNode temp=head;
+        while (temp!=null) {
+            stack.push(temp.val);
+            temp=temp.next;
         }
-        ListNode secondHalf = reverseList(slow);
-        ListNode firstHalf = head;
-        while (secondHalf != null) {
-            if (firstHalf.val != secondHalf.val) {
+        temp=head;
+        while(temp!=null){
+            if(temp.val!=stack.pop()){
                 return false;
             }
-            firstHalf = firstHalf.next;
-            secondHalf = secondHalf.next;
+            temp=temp.next;
         }
 
         return true;
-    }
-    private ListNode reverseList(ListNode head) {
-        ListNode prev = null, curr = head, next = null;
-        while (curr != null) {
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-        }
-        return prev;
     }
 }
