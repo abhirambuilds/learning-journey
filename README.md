@@ -220,6 +220,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0876-middle-of-the-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Bit Manipulation
@@ -274,6 +275,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0237-delete-node-in-a-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0706-design-hashmap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
