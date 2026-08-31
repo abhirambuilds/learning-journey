@@ -9,11 +9,7 @@
  * }
  */
  /*BRUTE FORCE:
-
-
- */
-class Solution {
-    public boolean isPalindrome(ListNode head) {
+USE STACK ,
         if (head == null || head.next == null) return true;
         Deque<Integer> stack = new ArrayDeque<>();
         ListNode temp=head;
@@ -30,5 +26,39 @@ class Solution {
         }
 
         return true;
+
+ */
+ //OPTIMAL SOLUTION
+class Solution {
+    public boolean isPalindrome(ListNode head) {
+        if (head == null || head.next == null) return true;
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        ListNode secondHalf=reverse(slow);
+        ListNode firstHalf=head;
+        while(secondHalf!=null){
+            if(firstHalf.val!=secondHalf.val){
+                return false;
+            }
+            secondHalf=secondHalf.next;
+            firstHalf=firstHalf.next;
+        }
+        return true;
+
+    }
+    private static ListNode reverse(ListNode head){
+        ListNode prev=null;
+        ListNode curr=head;
+        while(curr!=null){
+            ListNode temp=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=temp;
+        }
+        return prev;
     }
 }
