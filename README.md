@@ -212,6 +212,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0031-next-permutation](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0075-sort-colors/) | Medium |
+| [0086-partition-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -276,6 +277,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0021-merge-two-sorted-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0086-partition-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0148-sort-list/) | Medium |
