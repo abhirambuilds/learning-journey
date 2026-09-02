@@ -97,6 +97,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1929-concatenation-of-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0136-single-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +255,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0525-contiguous-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0706-design-hashmap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0706-design-hashmap/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,6 +426,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -456,6 +460,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0100-same-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
