@@ -81,6 +81,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0283-move-zeroes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
@@ -127,6 +128,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -484,4 +486,8 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
