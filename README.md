@@ -104,6 +104,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [3875-construct-uniform-parity-array-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +167,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1004-max-consecutive-ones-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
