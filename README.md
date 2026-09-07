@@ -278,6 +278,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,6 +321,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0242-valid-anagram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0242-valid-anagram/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
