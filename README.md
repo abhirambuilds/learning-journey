@@ -102,6 +102,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1929-concatenation-of-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -268,6 +269,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0525-contiguous-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0706-design-hashmap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0706-design-hashmap/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -309,6 +311,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0025-reverse-nodes-in-k-group](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0234-palindrome-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -503,4 +506,8 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
