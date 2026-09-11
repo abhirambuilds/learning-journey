@@ -101,6 +101,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1929-concatenation-of-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1929-concatenation-of-array/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -160,6 +161,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0881-boats-to-save-people](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,6 +271,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0525-contiguous-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0706-design-hashmap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0706-design-hashmap/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Dynamic Programming
@@ -311,6 +314,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0025-reverse-nodes-in-k-group](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -509,5 +513,6 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
