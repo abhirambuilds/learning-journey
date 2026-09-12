@@ -103,6 +103,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1929-concatenation-of-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1929-concatenation-of-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -129,6 +130,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0875-koko-eating-bananas](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +164,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +289,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
