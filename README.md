@@ -78,6 +78,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0189-rotate-array/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -166,6 +167,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0088-merge-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0242-valid-anagram/) | Easy |
@@ -198,6 +200,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0148-sort-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0191-number-of-1-bits/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
@@ -205,6 +208,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
@@ -405,6 +409,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
