@@ -464,6 +464,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0102-binary-tree-level-order-traversal](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
@@ -478,6 +479,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0102-binary-tree-level-order-traversal](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Matrix
@@ -525,6 +527,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0100-same-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -551,4 +554,8 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0037-sudoku-solver/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
