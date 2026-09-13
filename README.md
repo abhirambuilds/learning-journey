@@ -144,6 +144,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Sorting
@@ -258,6 +259,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -323,6 +325,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0014-longest-common-prefix/) | Easy |
