@@ -55,6 +55,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0033-search-in-rotated-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0046-permutations/) | Medium |
@@ -268,6 +269,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0076-minimum-window-substring/) | Hard |
@@ -423,11 +425,13 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0051-n-queens/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0051-n-queens/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
@@ -477,6 +481,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0037-sudoku-solver/) | Hard |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Timsort
@@ -539,4 +544,8 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
