@@ -196,6 +196,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
@@ -267,6 +268,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
