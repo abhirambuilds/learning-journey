@@ -37,6 +37,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0069-sqrtx](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3870-count-commas-in-range](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -271,6 +272,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0191-number-of-1-bits](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
