@@ -39,6 +39,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0189-rotate-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0836-rectangle-overlap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0836-rectangle-overlap/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3870-count-commas-in-range](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -585,4 +586,8 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
