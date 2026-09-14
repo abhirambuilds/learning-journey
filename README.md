@@ -34,6 +34,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0002-add-two-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
@@ -60,6 +61,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0041-first-missing-positive](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0053-maximum-subarray/) | Medium |
@@ -507,6 +509,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0048-rotate-image/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0835-image-overlap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0867-transpose-matrix/) | Easy |
