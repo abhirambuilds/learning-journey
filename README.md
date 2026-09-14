@@ -99,6 +99,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0704-binary-search](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0706-design-hashmap/) | Easy |
 | [0835-image-overlap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0835-image-overlap/) | Medium |
+| [0867-transpose-matrix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -379,6 +380,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0682-baseball-game/) | Easy |
+| [0867-transpose-matrix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0867-transpose-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Trie
@@ -507,6 +509,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0037-sudoku-solver](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0037-sudoku-solver/) | Hard |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0835-image-overlap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0835-image-overlap/) | Medium |
+| [0867-transpose-matrix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0867-transpose-matrix/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
