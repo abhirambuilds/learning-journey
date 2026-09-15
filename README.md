@@ -154,6 +154,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0881-boats-to-save-people](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +276,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1768-merge-strings-alternately](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3794-reverse-string-prefix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -327,6 +329,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -382,6 +385,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3794-reverse-string-prefix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
