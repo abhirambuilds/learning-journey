@@ -116,6 +116,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1929-concatenation-of-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1929-concatenation-of-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -335,6 +336,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -409,6 +411,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3498-reverse-degree-of-a-string/) | Easy |
