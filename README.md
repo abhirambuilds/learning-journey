@@ -162,6 +162,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0611-valid-triangle-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0611-valid-triangle-number/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -355,6 +356,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -410,6 +412,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0242-valid-anagram](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -474,6 +477,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0225-implement-stack-using-queues](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0496-next-greater-element-i/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0682-baseball-game/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -518,6 +522,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0020-valid-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
