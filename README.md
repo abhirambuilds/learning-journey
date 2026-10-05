@@ -415,6 +415,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0678-valid-parenthesis-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -479,6 +480,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0496-next-greater-element-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0682-baseball-game/) | Easy |
+| [0856-score-of-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -523,6 +525,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0022-generate-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
