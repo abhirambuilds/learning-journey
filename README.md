@@ -167,6 +167,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0881-boats-to-save-people](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -425,6 +426,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -489,6 +491,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1096-brace-expansion-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -535,6 +538,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1021-remove-outermost-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Quicksort
