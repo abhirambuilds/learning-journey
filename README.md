@@ -123,6 +123,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -666,6 +667,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dancing Links
 | Problem Name | Difficulty |
