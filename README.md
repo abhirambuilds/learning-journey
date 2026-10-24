@@ -44,6 +44,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2409-count-days-spent-together](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2409-count-days-spent-together/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -466,6 +467,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1768-merge-strings-alternately](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2409-count-days-spent-together](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3794-reverse-string-prefix/) | Easy |
