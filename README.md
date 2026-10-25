@@ -117,6 +117,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0904-fruit-into-baskets](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -500,6 +501,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -635,6 +637,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0304-range-sum-query-2d-immutable](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0835-image-overlap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0867-transpose-matrix/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Timsort
@@ -677,6 +680,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0102-binary-tree-level-order-traversal](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -686,6 +690,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
