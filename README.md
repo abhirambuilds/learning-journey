@@ -39,6 +39,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0189-rotate-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0836-rectangle-overlap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -100,6 +101,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0304-range-sum-query-2d-immutable](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0496-next-greater-element-i/) | Easy |
