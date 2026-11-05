@@ -122,6 +122,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -177,6 +178,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0704-binary-search](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -237,6 +239,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0881-boats-to-save-people](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -339,6 +342,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0680-valid-palindrome-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0881-boats-to-save-people/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
