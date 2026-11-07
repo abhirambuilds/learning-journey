@@ -129,6 +129,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1929-concatenation-of-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -288,6 +289,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0347-top-k-frequent-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
