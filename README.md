@@ -122,6 +122,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -318,6 +319,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0347-top-k-frequent-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0912-sort-an-array/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,6 +534,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
@@ -670,6 +673,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0835-image-overlap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0867-transpose-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -717,6 +721,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0301-remove-invalid-parentheses](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Depth-First Search
@@ -728,6 +733,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0543-diameter-of-binary-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
