@@ -144,6 +144,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -226,6 +227,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Sorting
@@ -271,6 +273,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Divide and Conquer
