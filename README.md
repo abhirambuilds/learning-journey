@@ -367,6 +367,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3794-reverse-string-prefix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -443,6 +444,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -516,6 +518,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
