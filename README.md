@@ -41,6 +41,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0371-sum-of-two-integers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0836-rectangle-overlap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0836-rectangle-overlap/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -125,6 +126,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1004-max-consecutive-ones-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -276,6 +278,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0525-contiguous-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -553,6 +556,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [0225-implement-stack-using-queues](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0706-design-hashmap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0706-design-hashmap/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -842,4 +846,8 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
