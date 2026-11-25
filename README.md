@@ -173,6 +173,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [3886-sum-of-sortable-integers](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -201,6 +202,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,6 +437,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -565,6 +568,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0706-design-hashmap](https://github.com/abhirambuilds/learning-journey-2025/tree/main/0706-design-hashmap/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -858,4 +862,12 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
