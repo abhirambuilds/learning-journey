@@ -48,6 +48,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -550,6 +551,7 @@ This repo tracks my learning and growth from **2025--2026**, as I build proof-of
 | [1929-concatenation-of-array](https://github.com/abhirambuilds/learning-journey-2025/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/abhirambuilds/learning-journey-2025/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
